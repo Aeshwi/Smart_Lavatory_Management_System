@@ -77,7 +77,6 @@ The dataset used in this project is `Smart Lavatory System.csv`, which contains 
 
 2. **Actual vs Predicted Cleanliness**:
    - **Description**: This scatter plot compares the actual cleanliness values with the predicted values from the model. It helps to identify how well the model is performing in terms of predicting the cleanliness accurately.
-    - **Example**:
 
 3. **Confusion Matrix**:
    - **Description**: The confusion matrix is a heatmap that shows the number of correct and incorrect predictions made by the model. It helps to visualize the performance of the classification model, showing how many true positives, true negatives, false positives, and false negatives are present.

@@ -65,10 +65,8 @@ The dataset used in this project is `Smart Lavatory System.csv`, which contains 
 
 ## Example Output
 
-- **Train Accuracy**: 
-- **Test Accuracy**: 
-- **RMSE**: 
-- **Confusion Matrix**: 
+- **Train Accuracy**: 99.83%
+- **Test Accuracy**: 98.61%
 
 ## Visualizations
 

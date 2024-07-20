@@ -60,7 +60,7 @@ The dataset used in this project is `Smart Lavatory System.csv`, which contains 
 
 3. Run the script:
     ```bash
-    python script_name.py
+    python Smart_Lavatory_LSTM.py
     ```
 
 ## Example Output
@@ -73,18 +73,12 @@ The dataset used in this project is `Smart Lavatory System.csv`, which contains 
 ## Visualizations
 
 1. **Accuracy Plot**:
-    ![Accuracy Plot](accuracy_plot.png)
+   - **Description**: This plot shows the accuracy of the model on the training and validation datasets over the epochs. It helps to visualize how well the model is learning and generalizing to the validation data.
 
 2. **Actual vs Predicted Cleanliness**:
-    ![Actual vs Predicted](actual_vs_predicted.png)
+   - **Description**: This scatter plot compares the actual cleanliness values with the predicted values from the model. It helps to identify how well the model is performing in terms of predicting the cleanliness accurately.
+    - **Example**:
 
 3. **Confusion Matrix**:
-    ![Confusion Matrix](confusion_matrix.png)
+   - **Description**: The confusion matrix is a heatmap that shows the number of correct and incorrect predictions made by the model. It helps to visualize the performance of the classification model, showing how many true positives, true negatives, false positives, and false negatives are present.
 
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the MIT License.
